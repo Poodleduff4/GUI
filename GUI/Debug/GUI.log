@@ -1,0 +1,7 @@
+﻿  GUI.cpp
+C:\Users\Luke\Documents\C++ crap\GUI\GUI\GUI.cpp(40,41): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Luke\Documents\C++ crap\GUI\GUI\GUI.cpp(40,31): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+  vectors.cpp
+C:\Users\Luke\Documents\C++ crap\GUI\GUI\vectors.cpp(26,38): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Luke\Documents\C++ crap\GUI\GUI\vectors.cpp(26,28): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+  GUI.vcxproj -> C:\Users\Luke\Documents\C++ crap\GUI\Debug\GUI.exe
