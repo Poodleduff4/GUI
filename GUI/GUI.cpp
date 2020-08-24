@@ -35,6 +35,7 @@ int main()
 					POINT cursor;
 					GetCursorPos(&cursor);
 					ScreenToClient(hwnd, &cursor);
+					std::cout << cursor.x << " | " << cursor.y << '\n';
 					Ball ball(cursor.x, cursor.y, 0, 1, sf::Color::Blue);
 					circles.push_back(ball);
 					std::cout << circles.size() << std::endl;
