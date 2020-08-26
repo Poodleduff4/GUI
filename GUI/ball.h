@@ -38,6 +38,7 @@ struct Ball
     void check_near(Ball &check_ball, std::vector<Ball>& balls) {
         sf::Vector2f pos;
         sf::Vector2f ballPos = check_ball.ball.getPosition();
+
         //std::cout << balls.size() << '\n';
         for (int i = 0; i < balls.size(); i++) //check for balls near the check_ball which will be green
         {

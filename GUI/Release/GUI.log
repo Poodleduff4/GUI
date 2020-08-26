@@ -1,5 +1,5 @@
 ﻿  GUI.cpp
-C:\Users\Luke\Documents\C++ crap\GUI\GUI\ball.h(42,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Luke\Documents\C++ crap\GUI\GUI\ball.h(43,27): warning C4018: '<': signed/unsigned mismatch
 C:\Users\Luke\Documents\C++ crap\GUI\GUI\GUI.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
 C:\Users\Luke\Documents\C++ crap\GUI\GUI\GUI.cpp(39,32): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
 C:\Users\Luke\Documents\C++ crap\GUI\GUI\GUI.cpp(39,22): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
@@ -7,8 +7,8 @@ C:\Users\Luke\Documents\C++ crap\GUI\GUI\GUI.cpp(48,32): warning C4244: 'argumen
 C:\Users\Luke\Documents\C++ crap\GUI\GUI\GUI.cpp(48,22): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
 C:\Users\Luke\Documents\C++ crap\GUI\GUI\GUI.cpp(56,21): warning C4018: '<': signed/unsigned mismatch
   Generating code
-  0 of 100 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+  1 of 100 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+    1 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   GUI.vcxproj -> C:\Users\Luke\Documents\C++ crap\GUI\Release\GUI.exe
